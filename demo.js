@@ -10,6 +10,7 @@ function subtract(a,b){
 
 }
 
+
 function multiply(a,b){
 	try{
         return typeof(a)==="number" && typeof(b)==='number'?
