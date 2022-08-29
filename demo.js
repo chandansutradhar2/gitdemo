@@ -9,4 +9,10 @@ function subtract(a,b){
 
 }
 
+function multiply(a,b){
+    return typeof(a)=="number" && typeof(b)=='number'?
+    a*b:'please enter number only';
+
+}
+
 console.log(subtract(10,30));
