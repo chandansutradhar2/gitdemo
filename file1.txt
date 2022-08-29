@@ -1,0 +1,12 @@
+this is a new file created by chandan naresh 2:36 PM
+added a second line at 2:38 PM
+earning to substantiate their goals. She is passionate about writing and loves to express herself through it. She believes in consistently upgrading her skills.
+Storage Capacity
+AWS’s cloud object storage solution offers high availability as well as automatic replication across regions. In AWS, temporary storage starts functioning whenever an instance starts and it stops when an instance gets terminated. It also provides block storage which is quite similar to hard disks. It can be either be attached to EC2 instances or can be kept separate. 
+
+On the other hand, Azure uses page blobs and temporary
+AWS vs. Azure – Which is better?
+While both provide similar services, there are certain factors based on which the two differ. These can be segregated in terms of revenue generation, flexibility, features and adaptability.
+
+Market share and Revenue
+
