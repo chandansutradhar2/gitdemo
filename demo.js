@@ -12,10 +12,8 @@ function subtract(a,b){
 
 function multiply(a,b){
 	try{
-
         return typeof(a)==="number" && typeof(b)==='number'?
         a*b:'please enter number only';
-
 	}catch(Exception){
 			console.log(Exception);
 	}

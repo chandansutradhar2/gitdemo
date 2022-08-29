@@ -12,17 +12,12 @@ function subtract(a,b){
 
 function multiply(a,b){
 	try{
-	
-<<<<<<< HEAD
-	}catch(Exception e){
-			console.log(e);
-=======
-   // return typeof(a)=="number" && typeof(b)=='number'?
-   // a*b:'please enter number only';
-	
+
+        return typeof(a)==="number" && typeof(b)==='number'?
+        a*b:'please enter number only';
+
 	}catch(Exception){
 			console.log(Exception);
->>>>>>> ad6ebf1aa702a60339997addc5bbe96d13c7556e
 	}
 }
 
