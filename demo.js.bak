@@ -1,7 +1,5 @@
 function add(a,b){
-    return typeof(a)=="number" && typeof(b)=='number'?
-    a+b:'please enter number only';
-
+    return a+b;
 }
 
 function subtract(a,b){
@@ -12,14 +10,9 @@ function subtract(a,b){
 }
 
 function multiply(a,b){
-	try{
-	
     return typeof(a)=="number" && typeof(b)=='number'?
     a*b:'please enter number only';
-	
-	}catch(Exception e){
-			console.log(e);
-	}
+
 }
 
 console.log(subtract(10,30));
