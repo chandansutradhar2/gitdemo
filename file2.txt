@@ -1,0 +1,2 @@
+a new line added inside file2.
+this is good enoigh for snapshot
